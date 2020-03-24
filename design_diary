@@ -37,4 +37,6 @@ goal write a script that allows user to designate countries of interest, as well
 
 success, just figured out how to get the needed information from certain columns, sum up the rows and display it in a graph! 
 
-Feel like I've come a long way with my understanding of pandas... comparing the graphed data of the various countries is incredibly interesting.  I feel like the distribution pattern of how much of a  population is infected at any given time will tell you a lot about that countries preparedness. Places like Japan where there was a concerted effort by their goverment to try and contain this virus as much as possible. Japan is a little bit less than half the size of the US, but their infection rate is so much lower.
+Feel like I've come a long way with my understanding of pandas... comparing the graphed data of the various countries is incredibly interesting.  I feel like 
+the distribution pattern of how much of a population is infected at any given time will tell you a lot about that countries preparedness. Japan is a little bit less than half the size of the US, 
+but their infection rate is so much lower.
