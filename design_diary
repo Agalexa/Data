@@ -4,10 +4,10 @@ Data analytics and visualization
 
 "Anything that has a row/column structure could potentially be used by Pandas for analysis/ visualization."
 
-Goal: To visualize and analyze data. Recognize that effective data visualization is vital in the human interpretation of information. Explore novel ways to visual data in order to increase depth of understanding. 
+Goal: To visualize and analyze data. Recognize that effective data visualization is vital in the human interpretation of information. Explore novel ways to visualize data in order to increase depth of understanding. 
 
 Coronavirus analysis -
-found data on confirmed cases, recoveres, and deaths. Also found in depth information about South Korean corona cases. 
+found data on confirmed cases, recoveries, and deaths. Also found in depth information about South Korean corona cases. 
 Want to analyze difference in transmission rate of various countries, and cross reference it with population/density to try and understand how effective countries are coping 
 
 analyze and compare:
