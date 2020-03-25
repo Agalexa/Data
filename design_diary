@@ -1,13 +1,16 @@
 Data analytics and visualization
 
+I feel like I really enjoyed this assignment and learned a lot about data structures and how to access/manipulate them. It was also cool to discover kaggle.com which is a fantastic source of data sets. The hardest part for me was figuring out how to access various columns and rows and to perform operations on them like summing as well as being able to do things like graphing. 
+
+
 "Data visualization is the discipline of trying to understand data by placing it in a visual context so that patterns, trends and correlations that might not otherwise be detected can be exposed."
 
 "Anything that has a row/column structure could potentially be used by Pandas for analysis/ visualization."
 
-Goal: To visualize and analyze data. Recognize that effective data visualization is vital in the human interpretation of information. Explore novel ways to visualize data in order to increase depth of understanding. 
+Goal: To visualize and analyze data. Recognize that effective data visualization is vital in the human interpretation of information. Explore novel ways to visual data in order to increase depth of understanding. 
 
 Coronavirus analysis -
-found data on confirmed cases, recoveries, and deaths. Also found in depth information about South Korean corona cases. 
+found data on confirmed cases, recoveres, and deaths. Also found in depth information about South Korean corona cases. 
 Want to analyze difference in transmission rate of various countries, and cross reference it with population/density to try and understand how effective countries are coping 
 
 analyze and compare:
@@ -37,6 +40,5 @@ goal write a script that allows user to designate countries of interest, as well
 
 success, just figured out how to get the needed information from certain columns, sum up the rows and display it in a graph! 
 
-Feel like I've come a long way with my understanding of pandas... comparing the graphed data of the various countries is incredibly interesting.  I feel like 
-the distribution pattern of how much of a population is infected at any given time will tell you a lot about that countries preparedness. Japan is a little bit less than half the size of the US, 
-but their infection rate is so much lower.
+Feel like I've come a long way with my understanding of pandas... comparing the graphed data of the various countries is incredibly interesting.  I feel like the distribution pattern of how much of a  population is infected at any given time will tell you a lot about that countries preparedness. Places like Japan where there was a concerted effort by their goverment to try and contain this virus as much as possible. Japan is a little bit less than half the size of the US, but their infection rate is so much lower.
+
